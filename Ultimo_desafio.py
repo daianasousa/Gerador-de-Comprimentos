@@ -15,7 +15,7 @@ c = obter um nome femea
 m = adicionar um nome M
 f = adiciona um nome F
 r = remover nome
-p = imprimir hobbies
+p = imprimir nome
 q = sair
 ''')
 
